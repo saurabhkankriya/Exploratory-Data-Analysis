@@ -1,1 +1,1 @@
-* **Haberman Dataset: ** Performed EDA on Haberman Breast Cancer Data. Plotted bar chart, histogram, violin plot, PDF, CDF etc to gain information about the dataset.
+* **Haberman Dataset:** Performed EDA on Haberman Breast Cancer Data. Plotted bar chart, histogram, violin plot, PDF, CDF etc to gain information about the dataset. The dataset is available on [Kaggle](https://www.kaggle.com/gilsousa/habermans-survival-data-set)
